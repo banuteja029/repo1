@@ -4,6 +4,6 @@ public class NewModel {
 	
 	void display()
 	{
-		System.out.println("New commit added");
+		System.out.println("New commit addedd");
 	}
 }
