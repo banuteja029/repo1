@@ -14,6 +14,7 @@ public class Main {
 
 		if (add(num1, num2) == 50) {
 			System.out.println("test passed");
+			System.out.println("test case");
 		}
 
 		else {
