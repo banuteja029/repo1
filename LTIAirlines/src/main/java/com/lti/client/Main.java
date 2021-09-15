@@ -18,6 +18,7 @@ public class Main {
 
 		else {
 			System.out.println("test failed");
+			System.out.println("test failed now");
 		}
 	}
 
